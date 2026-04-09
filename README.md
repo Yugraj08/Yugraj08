@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey I'm Yugraj Mewara 
 
-<!--
-**Yugraj08/Yugraj08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building Scalable Backend Systems with Java
 
-Here are some ideas to get you started:
+I focus on designing and implementing backend systems that are clean, secure, and scalable. My current trajectory is centered on Java-based backend development, with a long-term direction toward integrating AI capabilities into production-ready systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Backend-focused developer with strong foundations in Java and OOP  
+- Interested in designing APIs, handling data efficiently, and building scalable systems  
+- Currently sharpening problem-solving skills through DSA  
+- Exploring how AI can be integrated into backend architectures  
+
+---
+
+## Skills
+
+- **Languages:** Java, SQL  
+- **Core Concepts:** OOP, Data Structures & Algorithms  
+- **Backend:** REST APIs, Spring Boot (learning phase)  
+- **Database:** Relational databases (MySQL/PostgreSQL basics)  
+- **Tools:** Git, GitHub, Postman  
+
+---
+
+## Tech Stack
+
+Java | Spring Boot | SQL | REST APIs | Git | Postman
