@@ -19,8 +19,8 @@ I focus on designing and implementing backend systems that are clean, secure, an
 
 - **Languages:** Java, SQL  
 - **Core Concepts:** OOP, Data Structures & Algorithms  
-- **Backend:** REST APIs, Spring Boot (learning phase)  
-- **Database:** Relational databases (MySQL/PostgreSQL basics)  
+- **Backend:** REST APIs, Spring Boot   
+- **Database:** Relational databases (MySQL/PostgreSQL)  
 - **Tools:** Git, GitHub, Postman  
 
 ---
